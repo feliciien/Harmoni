@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>🎉 Welcome to try GPT Subtitler - a website for translating subtitles!</summary>
+<summary>🎉 Welcome to Harmony - a website for translating subtitles!</summary>
 
 [![GPT Subtitler Banner](assets/gpt_subtitler_en.png)](https://gptsubtitler.com)
 
