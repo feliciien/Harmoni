@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './LoginRegister.css';
 import { FaUser, FaLock, FaEnvelope } from "react-icons/fa";
-import VideoCaptionGenerator from '../VideoCaptionGenerator/VideoCaptionGenerator';
 
 const LoginRegister = () => {
 
@@ -36,7 +35,7 @@ const LoginRegister = () => {
             <a href="#">Forgot Password?</a>
           </div>
 
-          <button type='submit' onClick={VideoCaptionGenerator}>Login</button>
+          <button type='submit'>Login</button>
 
           <div className='register-link'>
             <p>Don't have an account? <a href="#" onClick={registerLink}>Register</a></p>
