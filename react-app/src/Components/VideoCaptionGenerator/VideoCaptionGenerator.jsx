@@ -10,7 +10,8 @@ const VideoCaptionGenerator = () => {
 
           <div className='input-box'>
             <label>Path to the input subtitle file:</label>
-            <input type='text' placeholder='input_file_path' required />
+            <input id='input-file-path' type='text' placeholder='input_file_path' required />
+            <button id='btn' type='submit'>Download</button>
           </div>
 
           <div className='input-box'>
